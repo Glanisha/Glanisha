@@ -39,6 +39,5 @@
 
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Glanisha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
     <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
