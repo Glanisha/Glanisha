@@ -37,7 +37,4 @@
   - [Devfolio](https://devfolio.co/projects/screensmart-b0a3)
   - [LinkedIn](https://www.linkedin.com/posts/liza-glanisha-castelino-558802302_hackathonjourney-ai-machinelearning-activity-7313562219210825728-KnKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlQs8UBHZC6jCeDhwi_NFX5k2BXF_UT_9Q)
 
-</div>
-<div align="center">
-    <img src="https://github.com/SlaydeSequeira/SlaydeSequeira/blob/main/dist/snake.svg" alt="Snake animation" />
-</div>
+
