@@ -11,6 +11,5 @@
   <a href="https://linkedin.com/in/liza-glanisha-castelino-558802302">💼 LinkedIn</a> •
   <a href="https://devfolio.co/@Glanisha">🚀 Devfolio</a> •
   <a href="mailto:lizacastelinoo@gmail.com">📧 Email</a> •
-   <a href="https://instagram.com/liza_glanisha_draws">📷 Instagram</a> •
 </p>
 
