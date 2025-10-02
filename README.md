@@ -4,7 +4,7 @@
   </a> 
 </div>
 
-<h3 align="center">3rd Year Computer Engineering Student at FRCRCE | AI/ML Honors | Full-Stack Developer</h3>
+<h3 align="center">3rd Year Computer Engineering Student at FRCRCE | AI/ML Honors</h3>
 
 <p align="center">
   <a href="https://liza-glanisha.vercel.app/">🌐 Portfolio</a> •
@@ -12,4 +12,12 @@
   <a href="https://devfolio.co/@Glanisha">🚀 Devfolio</a> •
   <a href="mailto:lizacastelinoo@gmail.com">📧 Email</a> •
 </p>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Glanisha&icon=2&color=3)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=Glanisha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
 
