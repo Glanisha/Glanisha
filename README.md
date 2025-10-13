@@ -26,11 +26,7 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Glanisha&icon=2&color=3">
-    <img src="https://komarev.com/ghpvc/?username=Glanisha&style=flat-square" alt="Profile views" />
-  </a>
-</div> 
+
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Glanisha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
